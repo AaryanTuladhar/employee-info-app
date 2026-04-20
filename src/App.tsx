@@ -9,6 +9,7 @@ interface Employee {
   salary: number;
   hireDate: string;
 }
+// hello world
 console.log('API_URL:', import.meta.env.VITE_API_URL);
 const API_URL = (import.meta.env.VITE_API_URL || 'http://localhost:3001') + "/employees";
 console.log("hello github")

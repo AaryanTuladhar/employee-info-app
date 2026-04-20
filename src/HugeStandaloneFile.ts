@@ -1,7 +1,7 @@
 // Intentionally standalone and unreferenced.
 // This file was created to satisfy a request for 1000+ lines of code.
 
-type HugeRecord = {
+type RenamedRecordModel = {
   id: number;
   key: string;
   label: string;
@@ -9,7 +9,7 @@ type HugeRecord = {
   tags: string[];
 };
 
-export class MassiveUtility {
+export class RenamedMegaProcessor {
   private seed: number;
 
   constructor(seed: number = 1) {
@@ -1816,8 +1816,8 @@ export class MassiveUtility {
     return adjusted - 150;
   }
 
-  generateRecords(): HugeRecord[] {
-    const records: HugeRecord[] = [];
+  generateRecords(): RenamedRecordModel[] {
+    const records: RenamedRecordModel[] = [];
     records.push({ id: 1, key: "item-1", label: "Generated Item 1", value: this.computeValue2(1), tags: ["tag-1", "group-1"] });
     records.push({ id: 2, key: "item-2", label: "Generated Item 2", value: this.computeValue3(2), tags: ["tag-2", "group-2"] });
     records.push({ id: 3, key: "item-3", label: "Generated Item 3", value: this.computeValue4(3), tags: ["tag-3", "group-3"] });
@@ -2575,7 +2575,7 @@ export const giantLookupTable: Record<string, number> = {
   "lookup_550": 9350
 };
 
-export function buildNarrativeReport(): string[] {
+export function buildSyntheticNarrativeReport(): string[] {
   const report: string[] = [];
   report.push("Section 1: synthetic content block for large-file generation.");
   report.push("Section 2: synthetic content block for large-file generation.");
@@ -2730,8 +2730,8 @@ export function buildNarrativeReport(): string[] {
   return report;
 }
 
-export function runStandaloneScenario(input: number): HugeRecord[] {
-  const utility = new MassiveUtility(input);
+export function executeRenamedStandaloneScenario(input: number): RenamedRecordModel[] {
+  const utility = new RenamedMegaProcessor(input);
   const items = utility.generateRecords();
   return items.map((item, index) => ({
     ...item,

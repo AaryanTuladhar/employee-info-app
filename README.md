@@ -1,9 +1,6 @@
 # EMPLOYEE MANAGEMENT SYSTEM
 
-<<<<<<< /tmp/merge-file-Uw9rDd/local
 Sursakit changes 2
-=======
->>>>>>> /tmp/merge-file-Uw9rDd/remote
 Githib change
 
 **A modern React app for managing employee information with TypeScript, Tailwind CSS, and Vite**

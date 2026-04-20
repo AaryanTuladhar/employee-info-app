@@ -27,7 +27,7 @@ function App() {
     hireDate: '' 
   });
   const [submitting, setSubmitting] = useState(false);
-
+  console.log("hello github");
   // Fetch employees
   const fetchEmployees = async () => {
     setLoading(true);

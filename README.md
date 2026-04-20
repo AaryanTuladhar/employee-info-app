@@ -8,6 +8,7 @@
    ```bash
    npm install
    ```
+asdf
 qewr
 2. **Configure environment**
    Create a `.env` file:
@@ -21,6 +22,7 @@ qewr
    ```
    
    Opens at [http://localhost:3000](http://localhost:3000)
+asdf
 qwer
 ## 📋 Available Scripts
 
@@ -38,6 +40,7 @@ qwer
 - **Modern ES2020** - Latest JavaScript features
 
 ## 🌐 API Requirements
+asdf
 qwer
 The app expects a REST API with these endpoints:
 - `GET /employees` - Fetch all employees
@@ -52,6 +55,8 @@ The app expects a REST API with these endpoints:
 - **TypeScript compilation** - Fast type checking
 - **Modern bundling** - ES modules and optimized assets
 
+---asdf
+asdf
 ---qwer
 qewr
 Built with React, TypeScript, Vite & Tailwind CSS • Powered by [humafu, Inc. ](https://humafu.com/)

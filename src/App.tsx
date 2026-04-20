@@ -27,7 +27,7 @@ function App() {
     hireDate: '' 
   });
   const [submitting, setSubmitting] = useState(false);
-
+  console.log("hello sursatech");
   // Fetch employees
   const fetchEmployees = async () => {
     setLoading(true);

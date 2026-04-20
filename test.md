@@ -1,5 +1,5 @@
 # Markdown file
 
-test md file
+test md file is now changed
 
-this is a test file
+this was a test file

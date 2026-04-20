@@ -1,9 +1,9 @@
 # EMPLOYEE MANAGEMENT SYSTEM
-git hub changes
+
 **A modern React app for managing employee information with TypeScript, Tailwind CSS, and Vite**
-git hub changes 2
+
 ## 🚀 Quick Setup
-git hub changes 3
+
 1. **Install dependencies**
    ```bash
    npm install
@@ -20,7 +20,7 @@ qewr
    ```bash
    npm run dev
    ```
-   
+   Sursakit changes
    Opens at [http://localhost:3000](http://localhost:3000)
 asdf
 qwer

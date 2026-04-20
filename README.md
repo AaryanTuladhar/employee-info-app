@@ -1,7 +1,11 @@
 # EMPLOYEE MANAGEMENT SYSTEM
 
+<<<<<<< /tmp/merge-file-JkqtXz/local
 Sursakit changes 2
+asdf
+=======
 Githib change
+>>>>>>> /tmp/merge-file-JkqtXz/remote
 
 **A modern React app for managing employee information with TypeScript, Tailwind CSS, and Vite**
 
@@ -11,7 +15,7 @@ Githib change
    ```bash
    npm install
    ```
-
+asdf
 2. **Configure environment**
    Create a `.env` file:
    ```env
@@ -24,7 +28,7 @@ Githib change
    ```
    
    Opens at [http://localhost:3000](http://localhost:3000)
-
+asdf
 ## 📋 Available Scripts
 
 - `npm run dev` - Start development server with Vite
@@ -41,7 +45,7 @@ Githib change
 - **Modern ES2020** - Latest JavaScript features
 
 ## 🌐 API Requirements
-
+asdf
 The app expects a REST API with these endpoints:
 - `GET /employees` - Fetch all employees
 - `POST /employees` - Create employee
@@ -55,6 +59,6 @@ The app expects a REST API with these endpoints:
 - **TypeScript compilation** - Fast type checking
 - **Modern bundling** - ES modules and optimized assets
 
----
-
+---asdf
+asdf
 Built with React, TypeScript, Vite & Tailwind CSS • Powered by [humafu, Inc. ](https://humafu.com/)

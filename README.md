@@ -11,7 +11,7 @@ Githib change
    ```bash
    npm install
    ```
-
+qewr
 2. **Configure environment**
    Create a `.env` file:
    ```env
@@ -24,7 +24,7 @@ Githib change
    ```
    
    Opens at [http://localhost:3000](http://localhost:3000)
-
+qwer
 ## 📋 Available Scripts
 
 - `npm run dev` - Start development server with Vite
@@ -41,7 +41,7 @@ Githib change
 - **Modern ES2020** - Latest JavaScript features
 
 ## 🌐 API Requirements
-
+qwer
 The app expects a REST API with these endpoints:
 - `GET /employees` - Fetch all employees
 - `POST /employees` - Create employee
@@ -55,6 +55,6 @@ The app expects a REST API with these endpoints:
 - **TypeScript compilation** - Fast type checking
 - **Modern bundling** - ES modules and optimized assets
 
----
-
+---qwer
+qewr
 Built with React, TypeScript, Vite & Tailwind CSS • Powered by [humafu, Inc. ](https://humafu.com/)

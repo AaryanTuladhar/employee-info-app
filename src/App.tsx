@@ -11,7 +11,7 @@ interface Employee {
 }
 console.log('API_URL:', import.meta.env.VITE_API_URL);
 const API_URL = (import.meta.env.VITE_API_URL || 'http://localhost:3001') + "/employees";
-
+console.log("hello github")
 function App() {
   const [employees, setEmployees] = useState<Employee[]>([]);
   const [loading, setLoading] = useState(true);

@@ -9,6 +9,7 @@
    npm install
    ```
 asdf
+qewr
 2. **Configure environment**
    Create a `.env` file:
    ```env
@@ -22,6 +23,7 @@ asdf
    
    Opens at [http://localhost:3000](http://localhost:3000)
 asdf
+qwer
 ## 📋 Available Scripts
 
 - `npm run dev` - Start development server with Vite
@@ -39,6 +41,7 @@ asdf
 
 ## 🌐 API Requirements
 asdf
+qwer
 The app expects a REST API with these endpoints:
 - `GET /employees` - Fetch all employees
 - `POST /employees` - Create employee
@@ -54,4 +57,6 @@ The app expects a REST API with these endpoints:
 
 ---asdf
 asdf
+---qwer
+qewr
 Built with React, TypeScript, Vite & Tailwind CSS • Powered by [humafu, Inc. ](https://humafu.com/)

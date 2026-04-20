@@ -8,20 +8,20 @@
    ```bash
    npm install
    ```
-asdf
+
 2. **Configure environment**
-   Create a `.env` file:
-   ```env
-   VITE_API_URL=https://your-api-endpoint.com
+   Set the API base URL before starting the app:
+   ```bash
+   export VITE_API_URL=https://your-api-endpoint.com
    ```
 
 3. **Start the development server**
    ```bash
    npm run dev
    ```
-   
+
    Opens at [http://localhost:3000](http://localhost:3000)
-asdf
+
 ## 📋 Available Scripts
 
 - `npm run dev` - Start development server with Vite
@@ -38,11 +38,11 @@ asdf
 - **Modern ES2020** - Latest JavaScript features
 
 ## 🌐 API Requirements
-asdf
+
 The app expects a REST API with these endpoints:
 - `GET /employees` - Fetch all employees
 - `POST /employees` - Create employee
-- `PUT /employees/:id` - Update employee  
+- `PUT /employees/:id` - Update employee
 - `DELETE /employees/:id` - Delete employee
 
 ## ⚡ Performance Features
@@ -52,6 +52,6 @@ The app expects a REST API with these endpoints:
 - **TypeScript compilation** - Fast type checking
 - **Modern bundling** - ES modules and optimized assets
 
----asdf
-asdf
-Built with React, TypeScript, Vite & Tailwind CSS • Powered by [humafu, Inc. ](https://humafu.com/)
+---
+
+Built with React, TypeScript, Vite & Tailwind CSS • Powered by [humafu, Inc.](https://humafu.com/)

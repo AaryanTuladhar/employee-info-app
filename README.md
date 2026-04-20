@@ -1,27 +1,29 @@
 # EMPLOYEE MANAGEMENT SYSTEM
-
+git hub changes
 **A modern React app for managing employee information with TypeScript, Tailwind CSS, and Vite**
-
+git hub changes 2
 ## 🚀 Quick Setup
-
+git hub changes 3
 1. **Install dependencies**
    ```bash
    npm install
    ```
-
+asdf
+qewr
 2. **Configure environment**
-   Set the API base URL before starting the app:
-   ```bash
-   export VITE_API_URL=https://your-api-endpoint.com
+   Create a `.env` file:
+   ```env
+   VITE_API_URL=https://your-api-endpoint.com
    ```
 
 3. **Start the development server**
    ```bash
    npm run dev
    ```
-
+   
    Opens at [http://localhost:3000](http://localhost:3000)
-
+asdf
+qwer
 ## 📋 Available Scripts
 
 - `npm run dev` - Start development server with Vite
@@ -38,11 +40,12 @@
 - **Modern ES2020** - Latest JavaScript features
 
 ## 🌐 API Requirements
-
+asdf
+qwer
 The app expects a REST API with these endpoints:
 - `GET /employees` - Fetch all employees
 - `POST /employees` - Create employee
-- `PUT /employees/:id` - Update employee
+- `PUT /employees/:id` - Update employee  
 - `DELETE /employees/:id` - Delete employee
 
 ## ⚡ Performance Features
@@ -52,6 +55,8 @@ The app expects a REST API with these endpoints:
 - **TypeScript compilation** - Fast type checking
 - **Modern bundling** - ES modules and optimized assets
 
----
-
-Built with React, TypeScript, Vite & Tailwind CSS • Powered by [humafu, Inc.](https://humafu.com/)
+---asdf
+asdf
+---qwer
+qewr
+Built with React, TypeScript, Vite & Tailwind CSS • Powered by [humafu, Inc. ](https://humafu.com/)
